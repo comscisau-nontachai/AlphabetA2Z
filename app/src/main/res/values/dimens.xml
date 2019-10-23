@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sizeTitle">45sp</dimen>
+    <dimen name="sizeDesc">25sp</dimen>
+
+    <dimen name="paddingDesc">20dp</dimen>
+
+    <dimen name="marginTopTitle">70dp</dimen>
+</resources>
